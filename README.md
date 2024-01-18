@@ -1,6 +1,6 @@
  <h1 align="center">One Page Report - Relatório Individuais Automatizados</h1>
 
-<h1 align="center">⚠️ Projeto em construção e aperfeiçoamento ⚠️</h1>
+<h1 align="center">⚠️ Projeto em processo de construção e aperfeiçoamento ⚠️</h1>
  
 ### 📌 <strong>Sobre o projeto:</strong>
 O termo One Page Report está ganhando popularidade no mundo corporativo, especialmente na gestão de projetos.
